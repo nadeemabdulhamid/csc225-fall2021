@@ -21,12 +21,13 @@ class Dillo {
             return false;
         }
         
+        // NOTE: can be defined with or without conditional...
         //return this.isDead &&  
         //       this.length > personLength;
     }
     
     /**
-     * Produces the ounces of food consumed by this dillo
+     * Produces the calories of food consumed by this dillo
      * in one meal.
      */
     int mealSize() {
