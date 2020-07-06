@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>70</x>
+      <y>90</y>
+      <w>110</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Unknown
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>70</x>
+      <y>360</y>
+      <w>110</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>Person
+--
+name = "Bill"
+yob = 1980
+...</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>210</x>
+      <y>530</y>
+      <w>110</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>Person
+--
+name = "Bree"
+yob = 1981
+...</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>210</x>
+      <y>90</y>
+      <w>110</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Unknown
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>70</x>
+      <y>210</y>
+      <w>110</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Unknown
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>210</x>
+      <y>360</y>
+      <w>110</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Unknown
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>210</x>
+      <y>210</y>
+      <w>110</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>Person
+--
+name = "Bill"
+yob = 1980
+...</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>70</x>
+      <y>530</y>
+      <w>110</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>Person
+--
+name = "Bill"
+yob = 1980
+...</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>360</x>
+      <y>380</y>
+      <w>140</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>120.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>190</x>
+      <y>70</y>
+      <w>160</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>bg=#dddddd</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>190</x>
+      <y>180</y>
+      <w>160</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>bg=#dddddd</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>190</x>
+      <y>340</y>
+      <w>160</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>bg=#dddddd</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>620</x>
+      <y>510</y>
+      <w>160</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>bg=#dddddd</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>350</x>
+      <y>550</y>
+      <w>150</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>130.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>500</x>
+      <y>360</y>
+      <w>110</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Unknown
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>640</x>
+      <y>360</y>
+      <w>110</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>Person
+--
+name = "Bill"
+yob = 1980
+...</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>620</x>
+      <y>330</y>
+      <w>160</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>bg=#dddddd</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>500</x>
+      <y>540</y>
+      <w>110</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>Person
+--
+name = "Bree"
+yob = 1981
+...</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>640</x>
+      <y>540</y>
+      <w>110</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>Person
+--
+name = "Bill"
+yob = 1980
+...
+layer=1</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>190</x>
+      <y>500</y>
+      <w>160</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>bg=#dddddd</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>80</x>
+      <y>20</y>
+      <w>280</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>*_IFamTree youngerOf(IFamTree that)_*</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>490</x>
+      <y>280</y>
+      <w>300</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>*_Person youngerOfPerson(Person other)_*</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
