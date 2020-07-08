@@ -1,6 +1,7 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "/Users/nhamid/Documents/berry/20fall/csc225/junit-platform-console-standalone-1.7.0-M1.jar"
+        "/Users/nhamid/Documents/berry/20fall/csc225/junit-platform-console-standalone-1.7.0-M1.jar",
+        "/Users/nhamid/Documents/berry/20fall/csc225/sinbad.jar"
     ]
 }
