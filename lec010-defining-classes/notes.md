@@ -1,4 +1,6 @@
 
+# **Lecture 1: Defining Simple Classes**
+
 # Objectives
 
 ## KNOW:
@@ -20,6 +22,49 @@ https://web.cs.wpi.edu/~cs2102/d17/Lectures/migrate.html
 
 - **Leena Razzaq, Viera Proulx, et al. CS 2510: Fundamentals of Computer Science 2 @ Northeastern University**
 https://course.ccs.neu.edu/cs2510/index.html
+
+
+---
+# Watch (before class)
+
+- [Migrating to Java: Introduction to CSC225 & Review from CSC120](https://mediaspace.berry.edu/media/lecture1a-racket-review/1_c04s24lh) [3 mins]
+- [Defining Simple Classes](https://mediaspace.berry.edu/media/lecture1b-simple-classes/1_8sc7yi5x) [14 mins]
+
+
+---
+# Practice (for class)
+<sub><sup>(https://web.cs.wpi.edu/~cs2102/d17/PracticeProblems/simple-classes.html)</sup></sub>
+
+Try these problems, don’t just look at the answers. If you do look at the answers and find you made mistakes, write the answers out again by hand, even if you are mostly copying the answers. People learn differently from writing versus reading details: you are much more likely to absorb the pattern of defining classes if you actually write it down yourself. If you type instead of write by hand, don’t use cut and paste. You actually have to write out the characters yourself to help you absorb the patterns.
+
+## Tasks
+
+- Create a class that captures **students**. Each student has a first name, last name, class year, and major. Create two examples of students.
+
+- Create a class that captures **planets**. Each planet has a name, a distance from the sun, and its gravity relative to Earth’s gravity. For distance and gravity, use the type double which captures real numbers. Make objects for Earth and your favorite non-earth planet.
+
+- Create classes that capture **bank customers** and **bank accounts**. A customer has a first and last name. An account has a customer and a balance. Make objects for two accounts held by the same customer.
+
+- Create a class that captures **airline tickets**. Each ticket lists the departure and arrival cities, a flight number, and a seat assignment. A **seat assignment** has both a row and a letter for the seat within the row (such as 12F). Make two examples of tickets.
+
+## Sample Solution
+
+The `practice/PracticeTests.java` file in the code repository has classes defined for these exercises. You might have used different names for the fields, but your answers should have been close to this. The PracticeTests class is not complete, but just shows you one example of creating data in which one object contains another. Your Tests class should be much more extensive.
+
+### Things to think about
+
+- For seat assignments, you could use a string or you could make a seat-assignment class. What are the advantages and disadvantages of each approach?
+
+- Is there any difference between two customers with the same data and two customers with different data?
+
+
+
+---
+# Assignment (for homework)
+
+
+
+
 
 ---
 # Video Notes
@@ -61,41 +106,6 @@ https://course.ccs.neu.edu/cs2510/index.html
   - Throw in a `fail` test stub (needs `public` annotation)
 
 - Compile & Run tests
-
-
-
-
-
----
-# Practice
-<sub><sup>(https://web.cs.wpi.edu/~cs2102/d17/PracticeProblems/simple-classes.html)</sup></sub>
-
-Try these problems, don’t just look at the answers. If you do look at the answers and find you made mistakes, write the answers out again by hand, even if you are mostly copying the answers. People learn differently from writing versus reading details: you are much more likely to absorb the pattern of defining classes if you actually write it down yourself. If you type instead of write by hand, don’t use cut and paste. You actually have to write out the characters yourself to help you absorb the patterns.
-
-## Tasks
-
-- Create a class that captures **students**. Each student has a first name, last name, class year, and major. Create two examples of students.
-
-- Create a class that captures **planets**. Each planet has a name, a distance from the sun, and its gravity relative to Earth’s gravity. For distance and gravity, use the type double which captures real numbers. Make objects for Earth and your favorite non-earth planet.
-
-- Create classes that capture **bank customers** and **bank accounts**. A customer has a first and last name. An account has a customer and a balance. Make objects for two accounts held by the same customer.
-
-- Create a class that captures **airline tickets**. Each ticket lists the departure and arrival cities, a flight number, and a seat assignment. A **seat assignment** has both a row and a letter for the seat within the row (such as 12F). Make two examples of tickets.
-
-## Sample Solution
-
-The `practice/PracticeTests.java` file in the code repository has classes defined for these exercises. You might have used different names for the fields, but your answers should have been close to this. The PracticeTests class is not complete, but just shows you one example of creating data in which one object contains another. Your Tests class should be much more extensive.
-
-### Things to think about
-
-- For seat assignments, you could use a string or you could make a seat-assignment class. What are the advantages and disadvantages of each approach?
-
-- Is there any difference between two customers with the same data and two customers with different data?
-
-
-
----
-# Assignment
 
 
 
