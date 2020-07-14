@@ -32,7 +32,7 @@ https://course.ccs.neu.edu/cs2510/index.html
 
 
 ---
-# Practice (for class)
+# Practice (in class)
 <sub><sup>(https://web.cs.wpi.edu/~cs2102/d17/PracticeProblems/simple-classes.html)</sup></sub>
 
 Try these problems, don’t just look at the answers. If you do look at the answers and find you made mistakes, write the answers out again by hand, even if you are mostly copying the answers. People learn differently from writing versus reading details: you are much more likely to absorb the pattern of defining classes if you actually write it down yourself. If you type instead of write by hand, don’t use cut and paste. You actually have to write out the characters yourself to help you absorb the patterns.
@@ -62,7 +62,7 @@ The `practice/PracticeTests.java` file in the code repository has classes define
 ---
 # Assignment (for homework)
 
-
+- [Here](work/hw010.md)
 
 
 

@@ -1,3 +1,4 @@
+# **Lecture 2: Defining Simple Methods • Using Conditionals**
 
 # Objectives
 
@@ -12,12 +13,13 @@
 - Write tests cases using JUnit
 
 ---
-# Watch
+# Watch (before class)
 
-
+- [Defining Methods](https://mediaspace.berry.edu/media/lecture2a-defining-methods/0_z52p0tey) [22 mins]
+- [Conditionals in Java](https://mediaspace.berry.edu/media/lecture2b-conditionals/0_2g6x51dz) [8 mins]
 
 --- 
-# Practice
+# Practice (in class)
 
 1. Consider the following problem:
 
@@ -114,6 +116,7 @@
 ---
 # Assignment
 
+- [Here](work/hw020.md)
 
 
 ---
