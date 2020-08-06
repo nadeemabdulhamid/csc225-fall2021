@@ -41,3 +41,7 @@ public interface IFamTree {
      */
     IFamTree youngestInGen(int n);
 }
+
+// Credits:
+//   https://course.ccs.neu.edu/cs2510/lecture6.html
+//   https://course.ccs.neu.edu/cs2510/lecture7.html

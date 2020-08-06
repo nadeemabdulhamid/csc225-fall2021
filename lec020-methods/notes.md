@@ -97,8 +97,22 @@
 - Add a method `fartherFromSun` that takes a planet and produces a `boolean` indicating whether *this* planet is farther from the sun than the planet given as input.
 
 
+
+
+---
+# Assignment
+
+- [Here](work/hw020.md)
+
+
+---
+# Video Notes
+
+
+
+
 --- 
-# Java Naming Conventions (for this class)
+## Java Naming Conventions (for this class)
 
 - **Class** names are in camel case (the first letter of each multi-word name is capitalized, as in `CamelCaseText`)
 
@@ -114,14 +128,28 @@
 
 
 ---
-# Assignment
+## Conditionals Syntax
 
-- [Here](work/hw020.md)
+### Simple two-way decision
 
+     if ( <condition> ) {
+         <statements>
+     } else {
+         <statements>
+     }
+
+### Multi-way decisions
 
----
-# Video Notes
-
+    if ( <condition> ) {
+        <statements>
+    } else if ( <condition> ) {
+       <statements>
+    } else if ( <condition> ) {
+       <statements>
+    ...
+    } else {
+        <statements>
+    }
 
 
 
@@ -136,6 +164,5 @@ https://web.cs.wpi.edu/~cs2102/d17/Lectures/migrate.html
 - **Leena Razzaq, Viera Proulx, et al. CS 2510: Fundamentals of Computer Science 2 @ Northeastern University**
 https://course.ccs.neu.edu/cs2510/index.html
 
-
-sample exercises:
-- https://web.cs.wpi.edu/~cs2102/d17/PracticeProblems/simple-methods.html
+---
+# Misc
