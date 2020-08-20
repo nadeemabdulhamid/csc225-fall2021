@@ -16,7 +16,8 @@
 ---
 # Watch (before class)
 
-- [title](link) [22 mins]
+- [Diagramming Classes & Objects](https://mediaspace.berry.edu/media/lecture2c-diagrams/0_ebi5kuhs) [12 mins]
+- [Interfaces](https://mediaspace.berry.edu/media/lecture3a-interfaces/1_6yb9xsns) [20 mins]
 
 
 
