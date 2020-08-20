@@ -12,7 +12,6 @@
 - Design classes and methods for unions of data in Java
 - Draw a diagram of classes and objects at a particular point in a given program
 
-
 
 ---
 # Watch (before class)
