@@ -10,12 +10,12 @@
   
 ## BE ABLE TO:
 - Define classes to represent self-referential data
-
+
 
 ---
 # Watch (before class)
 
-- [Self-referential data; Overloading constructors]([link](https://mediaspace.berry.edu/media/lecture4-self-ref/1_s8hxs38k)) [18 mins]
+- [Self-referential data; Overloading constructors](https://mediaspace.berry.edu/media/lecture4-self-ref/1_s8hxs38k) [18 mins]
 
 
 
