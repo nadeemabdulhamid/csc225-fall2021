@@ -11,7 +11,7 @@
 ## BE ABLE TO:
 - Define methods in a Java class
 - Write tests cases using JUnit
-
+
 ---
 # Watch (before class)
 
@@ -114,9 +114,9 @@
 --- 
 ## Java Naming Conventions (for this class)
 
-- **Class** names are in camel case (the first letter of each multi-word name is capitalized, as in `CamelCaseText`)
+- **Class** names are in camel case (the first letter of each multi-word name is capitalized, as in `CamelCaseText`)
 
-- **Field** and **identifier** names are in mixed case(the first letter of each word after the first is capitalized, as in `usesMixedCase`)
+- **Field** and **identifier** names are in mixed case (the first letter of each word after the first is capitalized, as in `usesMixedCase`)
   
 - **Method** names start with verbs and are in mixed case
   
@@ -137,7 +137,7 @@
      } else {
          <statements>
      }
-
+
 ### Multi-way decisions
 
     if ( <condition> ) {

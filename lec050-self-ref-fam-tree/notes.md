@@ -15,7 +15,7 @@
 ---
 # Watch (before class)
 
-- [title](link) [22 mins]
+- [Self-referential data]([link](https://mediaspace.berry.edu/media/lecture4-self-ref/1_s8hxs38k)) [18 mins]
 
 
 
@@ -34,8 +34,24 @@
 ---
 # Video Notes
 
+- So far in class, have covered:
+  - How to define classes in Java to model data
+  - Write methods
+  - Make decisions
+  - Represent unions of classes (using interfaces)
+  - Nested data
+  - Concept of types in Java
 
+- In this screencast: Self-referential data (something we've done a lot from CSC120 - 
+            so we'll pick up an example from there and carry it over to Java)
+- "Overloading" constructor definitions: defining multiple versions of a constructor, for convenience and flexibility
 
+- Family tree example from CSC 120 (hopefully familiar...); remember the arrows in the data definition!
+- Interface for family tree type; two classes: Unknown and Person
+
+- In BlueJ, can create a test class that is not bound to a particular other class or interface for testing - use the "New class" button
+
+- Constructors (and methods) can be *overloaded* as long as the parameters are different
 
 ---
 # Credits
