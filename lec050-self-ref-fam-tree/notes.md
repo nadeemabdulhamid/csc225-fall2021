@@ -1,4 +1,4 @@
-# **Lecture 5: Self-Referential Data **
+# Lecture 5: Self-Referential Data
 
 # Objectives
 
@@ -15,7 +15,7 @@
 ---
 # Watch (before class)
 
-- [Self-referential data]([link](https://mediaspace.berry.edu/media/lecture4-self-ref/1_s8hxs38k)) [18 mins]
+- [Self-referential data; Overloading constructors]([link](https://mediaspace.berry.edu/media/lecture4-self-ref/1_s8hxs38k)) [18 mins]
 
 
 
