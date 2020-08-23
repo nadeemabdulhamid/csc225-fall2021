@@ -1,4 +1,4 @@
-# **Lecture 4: Types, Classes & Interfaces • Object Containment **
+# Lecture 4: Types, Classes & Interfaces • Object Containment 
 
 # Objectives
 
@@ -17,7 +17,9 @@
 ---
 # Watch (before class)
 
-- [title](link) [22 mins]
+- [Types, Classes and Interfaces](https://mediaspace.berry.edu/media/lecture3b-types/1_xuygvq3q) [16 mins]
+- [Object diagrams for nested objects](https://mediaspace.berry.edu/media/unit0-lecture03d-nested-diagram/1_ffbnnkaf) [7 mins]
+- [Nested objects & method templates](https://mediaspace.berry.edu/media/lecture3c-nested-methods-template/1_jh26w8mo) [11 mins]
 
 
 
