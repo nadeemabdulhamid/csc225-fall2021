@@ -12,7 +12,7 @@
 ## BE ABLE TO:
 - Design methods for objects with containment (i.e. nested objects), introducing helper methods as appropriate
 - Draw an object diagram (memory map) with nested objects
-
+
 
 ---
 # Watch (before class)
