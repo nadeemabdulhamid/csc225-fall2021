@@ -24,14 +24,18 @@
 
 
 --- 
-# Practice (in class)
+# In Class
 
+- Questions? / Recap
+- Go over homework #3
+- Concept Check #1
+- Start today's homework
 
 
 ---
 # Assignment (for homework)
 
-- [Here](work)
+- [Here](work/hw040.md)
 
 
 
