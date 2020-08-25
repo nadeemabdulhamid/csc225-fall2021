@@ -52,5 +52,11 @@ public class Game2048Tests {
         assertEquals("(16)", b16.toString());
         assertEquals("[(8)|[(4)|(4)]]", m16.toString());
     }
+
+    @Test
+    public void testCount() {
+        assertEquals(0, b2.countMergedBases());
+        assertEquals(10, m64.countMergedBases());
+    }
 }
 
