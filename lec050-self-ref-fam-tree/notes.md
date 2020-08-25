@@ -17,7 +17,6 @@
 
 - [Self-referential data; Overloading constructors](https://mediaspace.berry.edu/media/lecture4-self-ref/1_s8hxs38k) [18 mins]
 - [Delegating to helper methods](https://mediaspace.berry.edu/media/self-ref-delegate/1_azkq8gpi) [7 mins]
-- [Accumulators with helper methods]() [tbp]
 
 
 
