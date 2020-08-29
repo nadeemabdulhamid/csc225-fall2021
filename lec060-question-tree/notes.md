@@ -28,3 +28,21 @@
 
 - [Here](work)
 
+---
+# Video Notes
+
+Text-based (Console) Input/Output (I/O)
+- Output: 
+
+      System.out.println("whatever you want to print here");
+      
+- Input:
+  1. Import the `Scanner` class
+  2. Create a `Scanner` object (usually in the `main` method only) that is initialized to `System.in` 
+  3. Use `Scanner` methods, like `nextLine`, `nextInt`, etc. to read an input message from the user.
+  
+        import java.util.Scanner;
+        Scanner sc = new Scanner(System.in);
+        ...
+        String line = sc.nextLine();
+        
