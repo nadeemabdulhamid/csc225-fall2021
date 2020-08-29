@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>15</zoom_level>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>615</x>
+      <y>240</y>
+      <w>240</w>
+      <h>75</h>
+    </coordinates>
+    <panel_attributes>Is it magical?</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>360</x>
+      <y>60</y>
+      <w>360</w>
+      <h>75</h>
+    </coordinates>
+    <panel_attributes>Does it have a horn?</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>180</x>
+      <y>240</y>
+      <w>240</w>
+      <h>75</h>
+    </coordinates>
+    <panel_attributes>Is it frozen?</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>90</x>
+      <y>405</y>
+      <w>180</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>*a computer*</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>345</x>
+      <y>405</y>
+      <w>180</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>*ice cream*</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>555</x>
+      <y>405</y>
+      <w>180</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>*a car*</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>825</x>
+      <y>405</y>
+      <w>180</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>*a unicorn*</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>525</x>
+      <y>120</y>
+      <w>255</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+yes</panel_attributes>
+    <additional_attributes>150.0;80.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>735</x>
+      <y>300</y>
+      <w>210</w>
+      <h>135</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+yes</panel_attributes>
+    <additional_attributes>120.0;70.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>270</x>
+      <y>300</y>
+      <w>180</w>
+      <h>135</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+yes</panel_attributes>
+    <additional_attributes>100.0;70.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>285</x>
+      <y>120</y>
+      <w>285</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+no</panel_attributes>
+    <additional_attributes>10.0;80.0;170.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>165</x>
+      <y>300</y>
+      <w>150</w>
+      <h>135</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+no</panel_attributes>
+    <additional_attributes>10.0;70.0;80.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>630</x>
+      <y>300</y>
+      <w>150</w>
+      <h>135</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+no</panel_attributes>
+    <additional_attributes>10.0;70.0;80.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>420</x>
+      <y>825</y>
+      <w>150</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>/IKNugget/
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>285</x>
+      <y>975</y>
+      <w>165</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>Thing
+--
+name : String</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>570</x>
+      <y>975</y>
+      <w>195</w>
+      <h>180</h>
+    </coordinates>
+    <panel_attributes>Question
+--
+question : String
+yes : IKNugget
+no  : IKNugget</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>480</x>
+      <y>855</y>
+      <w>225</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0;130.0;50.0;130.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>345</x>
+      <y>855</y>
+      <w>180</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>100.0;10.0;100.0;50.0;10.0;50.0;10.0;80.0</additional_attributes>
+  </element>
+</diagram>
