@@ -7,7 +7,7 @@ interface IKNugget {
   /**
    * Ask questions to identify a thing. In the event that the thing is not
    * correctly identified, produce a new tree that has been extended with an
-   * appropriate question to distingish the newly discovered thing from existing
+   * appropriate question to distinguish the newly discovered thing from existing
    * things.
    */
   public IKNugget askAndLearn(Scanner input);
