@@ -7,6 +7,7 @@
 - How to invoke `static` methods
   
 ## BE ABLE TO:
+- Write a program with a simple text-based input/output interface for the user
 - Define a `main` method for a class
 
 
