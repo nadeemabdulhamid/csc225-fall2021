@@ -4,7 +4,7 @@ interface IBook {
 }
 
 
-class Book {
+class Book implements IBook {
 	String title;
 	String author;
 	int dayTaken;
@@ -17,7 +17,7 @@ class Book {
 }
 
 
-class RefBook {
+class RefBook implements IBook {
 	String title;
 	int dayTaken;
 	
@@ -28,7 +28,7 @@ class RefBook {
 }
 
 
-class AudioBook {
+class AudioBook implements IBook {
 	String title;
 	String author;
 	int dayTaken;
