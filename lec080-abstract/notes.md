@@ -25,9 +25,10 @@
 
 
 --- 
-# Practice (in class)
+# Notes (mainly for me for class)
 
-- 
+- Work on `daysOverdue` task. Abstract as much as possible - lifting to parameter, field, and talk about static fields if time.
+
 
 ---
 # Assignment (for homework)
