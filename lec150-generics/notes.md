@@ -14,7 +14,7 @@
 
 - none
 
-- [Starter code](lec150-generics-start.zip)
+- [Starter code](https://github.com/nadeemabdulhamid/csc225-fall2020/raw/master/lec150-generics/lec150-generics-start.zip)
 
 ---
 # Assignment
