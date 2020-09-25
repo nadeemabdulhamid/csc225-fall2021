@@ -1,4 +1,4 @@
-# Lecture 16: Linked list variants; Object equality
+# Lecture 17: Linked list variants; Object equality
 
 # Objectives
 
