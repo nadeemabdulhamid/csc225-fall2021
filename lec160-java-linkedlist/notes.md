@@ -12,7 +12,7 @@
 ---
 # Watch (before class)
 
-- 
+- [Using the Java <code>LinkedList</code> class](https://mediaspace.berry.edu/media/lec16-java-linkedlist/1_8vgqd220)
 
 ---
 # Assignment
