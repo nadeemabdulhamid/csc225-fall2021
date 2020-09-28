@@ -24,7 +24,7 @@
 ---
 # Notes/Links
 
-- Lecture source code
+- [Lecture source code](final/)
 
 Please browse the following documentation to review what we cover in lecture about arrays.
 
