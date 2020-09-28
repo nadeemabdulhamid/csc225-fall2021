@@ -24,6 +24,8 @@
 ---
 # Notes/Links
 
+- Lecture source code
+
 Please browse the following documentation to review what we cover in lecture about arrays.
 
 - http://greenteapress.com/thinkjava6/html/thinkjava6009.html
