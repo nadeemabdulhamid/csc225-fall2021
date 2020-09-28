@@ -1,0 +1,19 @@
+18
+0 Fly Weight
+112 Super Fly Weight
+115 Bantam Weight"
+118 Super Bantam Weight
+122 Feather Weight
+126 Super Feather Weight
+130 Light Weight
+135 Super Light Weight
+140 Welter Weight
+147 Super Welter Weight
+154 Middle Weight
+160 Super Middle Weight
+167 Light Heavy Weight
+174 Super Light Heavy Weight
+183 Cruiser Weight
+189 Super Cruiser Weight
+198 Heavy Weight
+209 Super Heavy Weight

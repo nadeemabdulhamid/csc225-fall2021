@@ -1,0 +1,14 @@
+13
+0 Calm
+1 Light air
+4 Light breeze
+8 Gentle breeze
+13 Moderate breeze
+19 Fresh breeze
+25 Strong breeze
+32 High wind
+39 Gale
+47 Strong gale
+55 Storm
+64 Violent storm
+73 Hurricane
