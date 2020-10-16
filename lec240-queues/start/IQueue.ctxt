@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=IQueue
+comment0.text=\n\ A\ small\ queue\ interface.\ \ You\ can\ query\ the\ size\ of\ the\ queue\ and\n\ ask\ whether\ it\ is\ empty,\ enqueue\ items,\ dequeue\ items,\ and\ peek\ at\ the\ top\n\ item.\n
+comment1.params=item
+comment1.target=java.lang.Object\ enqueue(java.lang.Object)
+comment1.text=\n\ Adds\ the\ item\ to\ this\ queue.\n\ @param\ item\ the\ item\ to\ add\n\ @return\ the\ same\ item\n
+comment2.params=
+comment2.target=java.lang.Object\ dequeue()
+comment2.text=\n\ Removes\ and\ returns\ the\ item\ on\ this\ queue\ that\ was\ least\ recently\ added.\n\ @return\ the\ item\ on\ this\ queue\ that\ was\ least\ recently\ added\n\ @throws\ java.util.NoSuchElementException\ if\ this\ queue\ is\ empty\n
+comment3.params=
+comment3.target=java.lang.Object\ peek()
+comment3.text=\n\ Returns\ the\ item\ least\ recently\ added\ to\ this\ queue.\n\ @return\ the\ item\ least\ recently\ added\ to\ this\ queue\n\ @throws\ java.util.NoSuchElementException\ if\ this\ queue\ is\ empty\n
+comment4.params=
+comment4.target=int\ size()
+comment4.text=\n\ Returns\ the\ number\ of\ items\ currently\ in\ the\ queue.\n
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment5.text=\n\ Returns\ whether\ the\ queue\ is\ empty\ or\ not.\n
+numComments=6
