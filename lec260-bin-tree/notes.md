@@ -9,6 +9,12 @@
 ## BE ABLE TO:
 - implement various traversals using recursion, a stack, and a queue
 
+
+---
+# Reading
+
+- https://opendatastructures.org/ods-java/6_Binary_Trees.html 
+- https://opendatastructures.org/ods-java/6_1_BinaryTree_Basic_Binary.html
 ---
 # Lecture Notes
 
