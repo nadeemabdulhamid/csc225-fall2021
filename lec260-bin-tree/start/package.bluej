@@ -1,7 +1,13 @@
 #BlueJ package file
-dependency1.from=ExpressionParser
+dependency1.from=ExpressionParserTest
 dependency1.to=BinaryTree
 dependency1.type=UsesDependency
+dependency2.from=ExpressionParserTest
+dependency2.to=ExpressionParser
+dependency2.type=UsesDependency
+dependency3.from=ExpressionParser
+dependency3.to=BinaryTree
+dependency3.type=UsesDependency
 editor.fx.0.height=722
 editor.fx.0.width=800
 editor.fx.0.x=626
@@ -16,7 +22,7 @@ package.editor.x=445
 package.editor.y=140
 package.frame.height=538
 package.frame.width=800
-package.numDependencies=1
+package.numDependencies=3
 package.numTargets=3
 package.showExtends=true
 package.showUses=true
