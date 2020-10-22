@@ -15,8 +15,14 @@
 
 - https://opendatastructures.org/ods-java/6_Binary_Trees.html 
 - https://opendatastructures.org/ods-java/6_1_BinaryTree_Basic_Binary.html
+
+
 ---
 # Lecture Notes
 
 - [Starter Code](lec260-bin-tree.zip)
 
+---
+# Assignment
+
+- [Here](work/hw260.md)
