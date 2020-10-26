@@ -13,5 +13,5 @@
 ---
 # Lecture Notes
 
-- [Starter Code](lec270-iter.zip)
+- [Code from lecture](in-class/)
 
