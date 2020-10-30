@@ -5,7 +5,6 @@
 ## KNOW:
 - what a binary search tree is
 - what a symbol table is
-- the difference between `Comparable` and `Comparator`
   
 ## BE ABLE TO:
 - write methods that manipulate a BST
