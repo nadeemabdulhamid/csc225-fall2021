@@ -27,19 +27,6 @@ public class HuffmanCode {
 	public String encode(char c) {
 		return code[c];
 	}
-
-	/**
-	 * Given a string of 'bits' ("0" and "1"s), traverses the
-	 * tree to find the encoded character that is at a leaf.
-	 * For example, decode("0011") might produce 'a' for a particular example
-	 */
-	public char decode(String str) {
-		// TODO ************************************************************
-
-		// Hint: use the buildCode method below
-		
-		return 0;
-	}
 		
 
 	/* HELPER METHODS ----------------------------------------- */
