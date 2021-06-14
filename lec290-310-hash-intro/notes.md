@@ -1,4 +1,4 @@
-# Lecture 29: Dictionaries/Maps; Hashing introduction
+# Lecture 29-31: Dictionaries/Maps; Hashing introduction; Hash tables: implementation & applications
 
 # Objectives
 
@@ -29,6 +29,7 @@
 
 # Assignment
 
-- [Here](work/hw300.md)
+- [Lecture 29: Here](work/hw290.md)
+- [Lecture 31: Here](work/hw310.md)
 
 
