@@ -1,4 +1,4 @@
-# Lecture 32: Dictionaries/Maps; Hashing introduction
+# Lecture 29: Dictionaries/Maps; Hashing introduction
 
 # Objectives
 
@@ -19,16 +19,16 @@
 
 # Lecture Slides & Code
 
-- Intro: [code from lecture](lec320-hash-intro-live/)
+- Intro: [code from lecture](lec290-hash-intro-live/)
 
 - [Hash Tables](https://algs4.cs.princeton.edu/lectures/keynote/34HashTables.pdf)
 
-- Application (`chainword`): [Starter code](start/) (or [zip file](lec320-hash-starter.zip))
+- Application (`chainword`): [Starter code](start/) (or [zip file](lec290-hash-starter.zip))
 
 
 
 # Assignment
 
-- [Here](work/hw320.md)
+- [Here](work/hw300.md)
 
 

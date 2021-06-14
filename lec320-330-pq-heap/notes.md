@@ -1,4 +1,4 @@
-# Lecture 29-30: Priority-queues; Heaps; Comparators
+# Lecture 32-34: Priority-queues; Heaps; Comparators
 
 # Objectives
 
@@ -25,4 +25,5 @@
 
 # Assignment
 
-- [Here](work/hw300.md)
+- [Part 1](work/hw331.md)
+- [Part 2](work/hw332.md)
