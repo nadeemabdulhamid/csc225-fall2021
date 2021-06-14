@@ -52,7 +52,7 @@ public class ChainWord {
 		
 		System.out.println(table.size());
 		
-		// HW 340 here --------------
+		// HW 310 here --------------
 		
 		
 		
