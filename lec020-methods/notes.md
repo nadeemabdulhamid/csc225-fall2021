@@ -108,8 +108,37 @@
 ---
 # Video Notes
 
-
-
+- Continuing to develop the 'dillo' class from lecture 1...
+   - Java methods are analogues to functions in Racket and need to be defined within the scope of a class definition
+   - When defining a method
+      - The type of the result of a method comes first
+      - The name of the method is second
+      - Parentheses `( ... )` come next containing the methods parameters
+         - Before the name of the parameter, declare the type
+         - Multiple parameters are separated by commas
+      - Curly brackets `{ ... }` encapsulate the body of the method
+         - Java requires an explicit `return` statement followed by a `;`
+   - Purpose comments come before a method, commented out using either double slashes `//` to comment out one line or a pair of slash stars `/* ... */` to create a block comment
+   - In BlueJ, using double stars `/** ... */` creates a doc comment that can be used to create html documentation for your code
+- Opening the `DilloTest` class...
+   - Class methods can be tested using a counterpart method in a Test class
+   - When using `assertEquals( ... )`
+      - `assertEquals` tests to see if two given parameters are equal to one another
+      - The expected result is supposed to come first followed by a comma
+      - The expression we want to evaluate comes next
+   - Everything in Java is based on objects
+      - First write the object you want to apply the method on
+      - Then a `.`
+      - Then the name of the method and its accompanying parameter(s)
+- Coming back to the `dillo` class..
+   - selector expressions are articulated by `this` `.` and then a field such as `length`
+   - `this` is a parameter name of every method in Java as there is always an implicit `this` object parameter that is the same type of the class you are coding in
+- Back to the test class...
+   - In BlueJ, if we have defined examples in our Test class, right-clicking on the test class in the GUI and selecting the option `Object Bench to Test Fixture` puts those defined objects in the object bench
+   - Objects in the object bench have their own values for fields and can be interacted with
+- The implicit this in a Java method refers to the object a method is being used on
+- In Java, computation is written so that the operand is between the objects so `1 + 2` instead of the Racket style `(+ 1 2)`
+- A `return` expression is needed prior to returning the desired result in a method
 
 --- 
 ## Java Naming Conventions (for this class)
