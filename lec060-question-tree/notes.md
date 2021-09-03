@@ -14,14 +14,14 @@
 ---
 # Watch (before class)
 
-[**Starter Code**](https://github.com/nadeemabdulhamid/csc225-fall2020/tree/master/lec060-question-tree/start)
+[**Starter Code**](start/)
 
 - [Quick intro to textual input/output](https://youtu.be/G6BHnfZmm-4) [4 mins]
 - [Question Game](https://youtu.be/ubFXb5WZHcA) [25 mins]
 - [Adding a `main` method](https://mediaspace.berry.edu/media/lecture4ext-questiongame-main/1_3z9ds5wr) [10 mins]
 - [Explanation of `static` methods](https://mediaspace.berry.edu/media/lecture4ext-static-methods/1_5vj3mz4b) [12 mins]
 
-[**Final Code**](https://github.com/nadeemabdulhamid/csc225-fall2020/tree/master/lec060-question-tree/final)
+[**Final Code**](final/)
 
 
 ---
