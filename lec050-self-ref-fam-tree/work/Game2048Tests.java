@@ -2,16 +2,16 @@ import org.junit.*;
 import static org.junit.Assert.*;
 
 public class Game2048Tests {
-    
-    GamePiece b2 = new BaseTile();
-    GamePiece b4 = new BaseTile(4);
-    GamePiece b8 = new BaseTile(8);
-    GamePiece b16 = new BaseTile(16);
-    GamePiece m4 = new MergeTile(b2, b2);
-    GamePiece m12 = new MergeTile(b4, b8);
-    GamePiece m16 = new MergeTile(b8, new MergeTile(b4, b4));
 
-    GamePiece m64 = new MergeTile(new MergeTile(m16, b16),
+    IGamePiece b2 = new BaseTile();
+    IGamePiece b4 = new BaseTile(4);
+    IGamePiece b8 = new BaseTile(8);
+    IGamePiece b16 = new BaseTile(16);
+    IGamePiece m4 = new MergeTile(b2, b2);
+    IGamePiece m12 = new MergeTile(b4, b8);
+    IGamePiece m16 = new MergeTile(b8, new MergeTile(b4, b4));
+
+    IGamePiece m64 = new MergeTile(new MergeTile(m16, b16),
                                   new MergeTile(m16, m16));
 
     @Test
@@ -59,4 +59,3 @@ public class Game2048Tests {
         assertEquals(10, m64.countMergedBases());
     }
 }
-
