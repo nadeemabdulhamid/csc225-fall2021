@@ -11,8 +11,12 @@
 ---
 # Watch (before class)
 
-- [Gradebook Driver](https://mediaspace.berry.edu/media/unit0-lecture10-gradebook-driver/1_mk7wlzk5) [7 mins]
-  The [final code](final/) for this lecture in this repository defines the test class using the approach we are following this semester.
+- [Console I/O - Part 1](https://mediaspace.berry.edu/media/Console+I+O+-+part+1/1_150anr2v) [9.5 mins]
+  Adding user interaction via standard input/output.
+- [Part 2](https://mediaspace.berry.edu/media/Console+I+O+-+part+2/1_4n3zeoc8) [5.5 mins] 
+  Overloaded constructor that initializes data from a `Scanner`.
+- [Part 3](https://mediaspace.berry.edu/media/Console+I+O+-+part+3/1_n2hnz8m5) [10.5 mins]
+  Reading/writing from files.
 
 ---
 # Assignment
