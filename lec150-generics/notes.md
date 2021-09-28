@@ -14,7 +14,7 @@
 
 [Starter code](https://github.com/nadeemabdulhamid/csc225-fall2020/raw/master/lec150-generics/lec150-generics-start.zip)
 
-- [Abstracting Types with Generics](https://mediaspace.berry.edu/media/Lecture+15+-+Abstracting+types+%28generics%29/1_msp5nxvt)
+- [Abstracting Types with Generics](https://mediaspace.berry.edu/media/Lecture+15+-+Abstracting+types+%28generics%29/1_msp5nxvt) [14 mins]
 
 - [Function Objects]
 
