@@ -1,24 +1,31 @@
+
 import java.util.*;
+import java.io.*;
 
-// Credits: 
-// https://csawesome.runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-5-searching.html
-
-class Main {
-  public static void main(String[] args) {
-    SpellChecker checker = new SpellChecker();
-
-    System.out.print("Enter a word to spell check or q to quit: ");
-    Scanner scan = new Scanner(System.in);
-    String word = scan.nextLine();
-    while (!word.equals("q")) {
-      if (checker.linearSpellCheck(word))
-        System.out.println(word + " is spelled correctly!");
-      else
-        System.out.println(word + " is misspelled!");
-
-      System.out.print("Enter a word to spell check or q to quit: ");
-      word = scan.nextLine();
-      }    
-      scan.close();
-  }
+public class Main
+{
+   public static void main(String[] args) {
+        
+       try {
+           SpellChecker sp = new SpellChecker("dictionary.txt");
+           Scanner sc = new Scanner(System.in);
+           
+           System.out.println("Type words to spell check");
+           while (sc.hasNextLine()) {
+               String word = sc.nextLine();
+               
+               boolean result = sp.checkSpelling(word);
+               if (result) {
+                   System.out.println("Valid word");
+               } else {
+                   System.out.println("Not found");
+               }
+               
+           }
+        } catch (FileNotFoundException fnfe) {
+            System.out.println("Had some trouble loading the dictionary file!");
+            System.out.println(fnfe);
+        }
+       
+   }
 }
