@@ -23,7 +23,7 @@
 
 - [Hash Tables](https://algs4.cs.princeton.edu/lectures/keynote/34HashTables.pdf)
 
-- Application (`chainword`): [Starter code](start/) (or [zip file](lec290-hash-starter.zip))
+- Application (`chainword`): [Starter code](start/) (or [zip file](lec290-hash-starter.zip)) (or [complete](chainword.zip))
 
 
 
