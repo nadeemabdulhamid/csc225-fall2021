@@ -18,6 +18,8 @@
 # Lecture Slides & Code
 
 - [Elementary Sorts](https://algs4.cs.princeton.edu/lectures/keynote/21ElementarySorts.pdf)
+- [Merge Sort](https://algs4.cs.princeton.edu/lectures/keynote/22Mergesort.pdf)
+- [Quick Sort](https://algs4.cs.princeton.edu/lectures/keynote/23Quicksort.pdf)
 
 
 
