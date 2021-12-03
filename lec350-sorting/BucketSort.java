@@ -1,5 +1,3 @@
-package cc01;
-
 import java.util.*;
 
 public class BucketSort {
