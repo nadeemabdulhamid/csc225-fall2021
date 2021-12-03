@@ -15,7 +15,7 @@
 # Reading
 
 - https://algs4.cs.princeton.edu/24pq/
-    - [Starter code](start/) (or [zip file](lec290.zip))
+    - [Starter code](start/) (or [zip file](lec320.zip))
 
 
 # Lecture Slides
