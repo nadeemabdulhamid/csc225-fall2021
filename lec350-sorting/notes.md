@@ -21,7 +21,7 @@
 - [Merge Sort](https://algs4.cs.princeton.edu/lectures/keynote/22Mergesort.pdf)
 - [Quick Sort](https://algs4.cs.princeton.edu/lectures/keynote/23Quicksort.pdf)
 
-- [Bucket sort code)(BucketSort.java)
+- [Bucket sort code](BucketSort.java)
 
 
 
